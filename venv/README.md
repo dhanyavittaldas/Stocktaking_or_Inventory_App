@@ -23,20 +23,6 @@ https://trello.com/b/2o2pNkFN/inventory-app-python
 
 ##  Wireframe
 
-### Landing or Home Page
-![Home Page] (/docs/Landing page.PNG)
-
-### Register an Account
-
-![Register](/docs/Signup_page.PNG)
-
-### Inventory List
-
-![Inventory_items] (/docs/Inventory_page.PNG)
-
-
-
-
 
 
 
