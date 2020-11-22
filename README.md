@@ -43,7 +43,7 @@ https://trello.com/b/2o2pNkFN/inventory-app-python
 
 ## Database Design
 
-
+![Database_design](/docs/Database_design.PNG)
 
 
 ## Installation Steps
